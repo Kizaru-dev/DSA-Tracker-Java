@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fa6786c-1b04-4a48-86cc-1bcf13090cf1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Basic/Count_Digit_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Count_Digit_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Palindrome_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Palindrome_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
     "Application.Count_Digit_Number.executor": "Run",
     "Application.Even_Odd.executor": "Run",
     "Application.Factorial_of_Number.executor": "Run",
+    "Application.Palindrome_number.executor": "Debug",
     "Application.Print_First_N_Prime_number.executor": "Run",
     "Application.Reverse_Number.executor": "Run",
     "Application.Sum_Digit.executor": "Run",
@@ -45,7 +47,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Count_Digit_Number">
+  <component name="RunManager" selected="Application.Palindrome_number">
     <configuration name="Count_Digit_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Count_Digit_Number" />
       <module name="DSA Basci_Advance" />
@@ -72,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Find_Prime_Number" />
+    <configuration name="Palindrome_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Palindrome_number" />
       <module name="DSA Basci_Advance" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome_number" />
         <item itemvalue="Application.Count_Digit_Number" />
         <item itemvalue="Application.Sum_Digit" />
         <item itemvalue="Application.Reverse_Number" />
         <item itemvalue="Application.Factorial_of_Number" />
-        <item itemvalue="Application.Find_Prime_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +133,21 @@
       <updated>1766919154582</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Basic/Palindrome_number.java</url>
+          <line>8</line>
+          <properties class="Basic.Palindrome_number" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
