@@ -5,8 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fa6786c-1b04-4a48-86cc-1bcf13090cf1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Advance/Count_Even_Odd_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Advance/Duplicate_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Advance/Find_Pair_Given_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Advance/Largest_Sum_Sumarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Advance/Replace_Element_Greatest_RightSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Basic/Average_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Basic/Maximum_Minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Basic/Reverse_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Basic/Second_Largest_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Basic/Second_Smallest_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Basic/Sum_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Check_Array_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Common_Element_Two_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Count_Frequency_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Find_Missing_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Merge_Two_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Move_All_Zeros_End.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Remove_Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Rotate_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hashing/Introduction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Reverse_String_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Sum_of_Arrays_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/Bnary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/Linear_Serach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Bubble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Selection_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Basic/Count_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Basic/Count_Vowels_Consonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Basic/Count_Words_In_Sentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Basic/Palindrome_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Basic/Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Interview_Favorite_String_Problems/Check_Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Interview_Favorite_String_Problems/Find_First_non_Repeated_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Interview_Favorite_String_Problems/Remove_Duplicates_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Interview_Favorite_String_Problems/Remove_Spaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Interview_Favorite_String_Problems/Replace_Character_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Medium/Checke_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Medium/Convert_Lowercase_UpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Medium/Count_Frequency_Each_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Medium/Find_Longest_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Medium/Reverse_Words_Sentences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Check_Prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Check_Prime_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +70,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="37TFRoYH9ABLJDKwdpAEYNgZwr4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
