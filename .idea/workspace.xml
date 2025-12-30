@@ -32,24 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Check_Prime_number.executor": "Run",
-    "Application.Count_Digit_Number.executor": "Run",
-    "Application.Even_Odd.executor": "Run",
-    "Application.Factorial_of_Number.executor": "Run",
-    "Application.Palindrome_number.executor": "Debug",
-    "Application.Print_First_N_Prime_number.executor": "Run",
-    "Application.Reverse_Number.executor": "Run",
-    "Application.Sum_Digit.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Check_Prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Digit_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial_of_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome_number.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Print_First_N_Prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_Digit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Palindrome_number">
-    <configuration name="Count_Digit_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Count_Digit_Number" />
+}</component>
+  <component name="RunManager" selected="Application.Armstrong_number">
+    <configuration name="Armstrong_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Armstrong_number" />
       <module name="DSA Basci_Advance" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial_of_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Factorial_of_Number" />
+    <configuration name="Count_Digit_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Count_Digit_Number" />
       <module name="DSA Basci_Advance" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Armstrong_number" />
         <item itemvalue="Application.Palindrome_number" />
         <item itemvalue="Application.Count_Digit_Number" />
         <item itemvalue="Application.Sum_Digit" />
         <item itemvalue="Application.Reverse_Number" />
-        <item itemvalue="Application.Factorial_of_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -133,21 +133,6 @@
       <updated>1766919154582</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Basic/Palindrome_number.java</url>
-          <line>8</line>
-          <properties class="Basic.Palindrome_number" method="isPalindrome">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
