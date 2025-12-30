@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fa6786c-1b04-4a48-86cc-1bcf13090cf1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Basic/Maximum_Minimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Basic/Maximum_Minimum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Basic/Reverse_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Basic/Reverse_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "Application.Maximum_Minimum.executor": "Run",
     "Application.Palindrome_number.executor": "Debug",
     "Application.Print_First_N_Prime_number.executor": "Run",
+    "Application.Reverse_Array.executor": "Run",
     "Application.Reverse_Number.executor": "Run",
     "Application.Sum_Digit.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,7 +52,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Maximum_Minimum">
+  <component name="RunManager" selected="Application.Reverse_Array">
     <configuration name="Armstrong_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Armstrong_number" />
       <module name="DSA Basci_Advance" />
@@ -71,19 +72,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Count_Digit_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Count_Digit_Number" />
-      <module name="DSA Basci_Advance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reverse_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Basic.Reverse_Array" />
+      <module name="DSA Basci_Advance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse_Array" />
         <item itemvalue="Application.Maximum_Minimum" />
         <item itemvalue="Application.Average_Array" />
         <item itemvalue="Application.Armstrong_number" />
         <item itemvalue="Application.Palindrome_number" />
-        <item itemvalue="Application.Count_Digit_Number" />
       </list>
     </recent_temporary>
   </component>
