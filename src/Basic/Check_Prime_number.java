@@ -9,12 +9,16 @@ public class Check_Prime_number {
     }
 
     static boolean primeNumberChecker(int n){
-        for(int i = 2 ; i <= n-1 ; i++){
+
+        if(n == 1 || n < 1){
+            return false ;
+        }
+        for(int i = 2 ; i < n ; i++){
             if(n % i == 0 ){
-                return false ;  // found the divisor
+                return false;
             }
         }
-        return true ; // no divisor found .
+        return true ;
     }
 
 }

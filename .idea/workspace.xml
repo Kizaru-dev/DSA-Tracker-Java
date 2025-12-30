@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6fa6786c-1b04-4a48-86cc-1bcf13090cf1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Palindrome_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Palindrome_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Check_Prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/Check_Prime_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Check_Prime_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Count_Digit_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Even_Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial_of_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome_number.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Print_First_N_Prime_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Digit.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong_number.executor": "Run",
+    "Application.Check_Prime_number.executor": "Run",
+    "Application.Count_Digit_Number.executor": "Run",
+    "Application.Even_Odd.executor": "Run",
+    "Application.Factorial_of_Number.executor": "Run",
+    "Application.Palindrome_number.executor": "Debug",
+    "Application.Print_First_N_Prime_number.executor": "Run",
+    "Application.Reverse_Number.executor": "Run",
+    "Application.Sum_Digit.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Armstrong_number">
     <configuration name="Armstrong_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Armstrong_number" />
