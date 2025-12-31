@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fa6786c-1b04-4a48-86cc-1bcf13090cf1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Basic/Second_Smallest_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Basic/Second_Smallest_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Intermediate/Check_Array_Sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Intermediate/Check_Array_Sorted.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   "keyToString": {
     "Application.Armstrong_number.executor": "Run",
     "Application.Average_Array.executor": "Run",
+    "Application.Check_Array_Sorted.executor": "Run",
     "Application.Check_Prime_number.executor": "Run",
     "Application.Count_Digit_Number.executor": "Run",
     "Application.Even_Odd.executor": "Run",
@@ -55,13 +57,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Second_Smallest_Element">
-    <configuration name="Maximum_Minimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Basic.Maximum_Minimum" />
+  <component name="RunManager" selected="Application.Check_Array_Sorted">
+    <configuration name="Check_Array_Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Intermediate.Check_Array_Sorted" />
       <module name="DSA Basci_Advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Basic.*" />
+          <option name="PATTERN" value="Arrays.Intermediate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Check_Array_Sorted" />
         <item itemvalue="Application.Second_Smallest_Element" />
         <item itemvalue="Application.Sum_Element" />
         <item itemvalue="Application.Second_Largest_Element" />
         <item itemvalue="Application.Reverse_Array" />
-        <item itemvalue="Application.Maximum_Minimum" />
       </list>
     </recent_temporary>
   </component>
