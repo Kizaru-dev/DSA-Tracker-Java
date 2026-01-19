@@ -26,6 +26,6 @@ public class Class_02 {
             i++;
             j--;
         }
-        System.out.println(Arrays.toString(arr));
+
     }
 }
